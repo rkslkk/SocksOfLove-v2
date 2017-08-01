@@ -1,0 +1,58 @@
+html {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+
+.heading {
+    background-color: #D7DBDD;
+    padding: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    font-family: sans-serif;
+    margin-right: 225px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: lightblue;
+}
+
+.closer {
+    border-top: solid;
+    border-top-width: thin;
+    border-top-color: black;
+    text-decoration color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #D7DBDD;
+    height: 50px;
+}
+
+.contacts {
+    text-align: center; 
+}
